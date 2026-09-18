@@ -217,12 +217,10 @@ A real-time communication project exploring browser-based video communication an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirjaj-ajij-milon&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirjaj-ajij-milon&layout=compact&hide_border=true" height="170"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mirjaj-ajij-milon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mirjaj-ajij-milon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mirjaj-ajij-milon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
