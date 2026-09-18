@@ -16,123 +16,30 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi, I'm Mirjaj Ajij Milon</h1>
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>- 🔭 I'm currently building and scaling **full-stack MERN applications**, with a focus on production-grade REST APIs, authentication systems, and real-time features.<br>- 🌱 I'm currently learning **TypeScript, Next.js, Docker, and Redis** to strengthen my backend and full-stack engineering skills.<br>- 👯 I'm looking to collaborate on **open-source full-stack projects and hackathon builds**, especially projects involving AI integrations or real-time systems.<br>- 🤔 I'm looking for help with **scaling real-time systems using WebRTC/Socket.io** and improving production best practices for Node.js backends.<br>- 💬 Ask me about **Node.js, Express.js, REST API design, JWT authentication & RBAC, MongoDB schema design, React, and Redux**.<br>- 📫 How to reach me: **mirjajajijmilon@gmail.com**<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun fact: **I won 1st Place at the DIGONTOM Remote Hackathon 2026**, where I built **BizPilot AI**, an AI-powered retail CRM with multilingual support for **English, Hindi, and Bengali**.
 
-<p align="center">
-  <b>Full-stack developer building MERN applications with real backend depth</b><br/>
-  Authentication, payments, admin tooling and LLM-powered features
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirjajajijmilon) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mirjaj Ajij Milon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirjajajijmilon@gmail.com) 
 
----
+# 💻 Tech Stack:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mirjaj-ajij-milon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mirjaj-ajij-milon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mirjaj-ajij-milon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## About
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mirjaj-ajij-milon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I build full-stack web applications on the MERN stack. Most of my work sits in the backend and integration layer: REST APIs, authentication flows, payment gateways, file storage, transactional email, and deploying frontend, admin and API services separately.
-
-My recent projects bring AI into business software: a retail POS and CRM with a multilingual LLM copilot and voice interface, and a stock-trading simulator with wallet-synchronised order execution.
-
-<!-- Optional: add one line about your background or education here -->
-
-## Tech Stack
-
-| | |
-|---|---|
-| **Languages** | JavaScript (ES6+), HTML, CSS |
-| **Frontend** | React 19, Vite, React Router, Context API, Tailwind CSS, Material UI |
-| **Backend** | Node.js, Express, REST APIs, JWT, Passport.js, Google OAuth 2.0 |
-| **Database** | MongoDB, Mongoose, MongoDB Atlas |
-| **AI** | Groq API (Llama 3.3 70B), prompt design, Web Speech API |
-| **Integrations** | Stripe, Razorpay, Cloudinary, Nodemailer |
-| **Tools & Deployment** | Git, GitHub, Vercel, Netlify, Render, ESLint |
-
-## Featured Projects
-
-### BizPilot AI: POS, CRM and multilingual AI copilot for retail
-[Repository](https://github.com/mirjaj-ajij-milon/BizPilot-AI-Main) · [Live demo](https://bizpilotcrm.netlify.app)
-
-**What it is:** A business management app for retail shop owners that combines billing, customer records and analytics with an AI assistant that answers questions about the store's own data.
-
-**Built with:** React 19, Vite, Tailwind CSS v4, Node.js, Express 5, MongoDB, Groq (Llama 3.3 70B), Web Speech API
-
-**Key features:**
-- POS billing with printable invoices and WhatsApp invoice sharing
-- Customer CRM with bulk Excel/CSV import and duplicate resolution (merge, skip or keep both)
-- AI copilot in English, Hindi and Bengali with voice input and spoken replies
-- Sales analytics, task board and PDF report export
-
-**Engineering concepts demonstrated:**
-- JWT auth, Google OAuth 2.0 and expiring password-reset links sent by email
-- Layered backend (routes, controllers, services, middleware) with centralised error handling
-- Grounding LLM responses in live business data through prompt design
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mirjaj-ajij-milon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Swadzo: food delivery platform (API + customer app + admin panel)
-[Backend](https://github.com/mirjaj-ajij-milon/Swadzo-backend) · [Customer app](https://github.com/mirjaj-ajij-milon/Swadzo-frontend) · [Admin panel](https://github.com/mirjaj-ajij-milon/Swadzo-admin) · [Live demo](https://swadzo.netlify.app)
-
-**What it is:** An ordering platform where customers browse, search and order dishes, and administrators manage the menu and order status from a separate dashboard.
-
-**Built with:** React 19, Vite, Material UI, Node.js, Express 5, MongoDB Atlas, Stripe, Razorpay, Cloudinary
-
-**Key features:**
-- Cart, checkout with Stripe or Razorpay, and order status tracking
-- Dish reviews and ratings with one review per user per dish
-- Admin dashboard for menu management, order status updates and sales analytics
-
-**Engineering concepts demonstrated:**
-- Payment verification before an order is saved, to avoid unpaid orders
-- JWT auth with separate user and admin middleware
-- Image upload pipeline with Multer and Cloudinary
-- Three independently deployed services sharing one API
-
----
-
-### TradeSphere: stock trading and portfolio simulator
-[Repository](https://github.com/mirjaj-ajij-milon/TradeSphere-Main) · [Landing site](https://tradesphare.netlify.app) · [Trading dashboard](https://tradedashbd.netlify.app)
-
-**What it is:** A Zerodha-inspired trading interface with a marketing site, an authenticated dashboard and a serverless API, using a simulated wallet.
-
-**Built with:** React, Node.js, Express, Passport.js, MongoDB Atlas, Vercel, Netlify
-
-**Key features:**
-- Watchlist, holdings, positions and order history
-- Buy and sell orders that check and update the wallet balance
-- Wallet deposits and withdrawals with a transaction ledger
-
-**Engineering concepts demonstrated:**
-- Session-based auth with HTTP-only cookies across separately deployed apps
-- Route guarding and cross-app redirects
-- Order execution kept consistent with a wallet ledger
-- Monorepo structure with serverless backend deployment
-
-## Engineering Highlights
-
-- **API design:** REST backends with layered structure and role-protected routes
-- **Authentication:** JWT, session cookies, Google OAuth and email-based password reset
-- **Integrations:** payment gateways, cloud image storage and transactional email
-- **AI:** LLM integration with business-data context and browser speech APIs
-- **Deployment:** frontends on Netlify, APIs on Vercel and Render, MongoDB Atlas
-
-## Currently Exploring
-
-- LLM-powered features in business applications
-- Voice interfaces with the Web Speech API
-- Real-time communication with Socket.IO ([Vionex-Backend](https://github.com/mirjaj-ajij-milon/Vionex-Backend))
-
-## Current Focus
-
-Building complete MERN products end to end, and adding AI features to practical business tools.
-
-## Let's Connect
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - GitHub: [mirjaj-ajij-milon](https://github.com/mirjaj-ajij-milon)
 <!-- Add LinkedIn, email or portfolio here only if you want them shown -->
